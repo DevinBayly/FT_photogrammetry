@@ -30,3 +30,6 @@ run command to run the photogrammetry pipeline
 ```
 python3 /code/run.py --project-path "WingtraPilotProjects/" "20230401 fth test1 Flight 01"
 ```
+
+
+https://github.com/OpenDroneMap/ODM
