@@ -19,7 +19,7 @@ mv IMAGES images
 ```
 using the singularity container from the HPC
 ```
-cp ../baylyd/odm_latest.sif ./https://public.confluence.arizona.edu/display/UAHPC/Running+Jobs+with+SLURM
+cp ../baylyd/odm_latest.sif ./
 ```
 
 
