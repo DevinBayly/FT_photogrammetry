@@ -21,9 +21,12 @@ using the singularity container from the HPC
 ```
 cp ../baylyd/odm_latest.sif ./
 ```
-
-
-```
 singularity shell
-
+puts us inside the container
+```
+singularity shell odm_latest.sif
+```
+run command to run the photogrammetry pipeline
+```
+python3 /code/run.py --
 ```
