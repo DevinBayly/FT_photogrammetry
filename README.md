@@ -9,6 +9,10 @@ interactive -a cdh -t 5:00:00 -N 1 -n 16
 ```
 cd /xdisk/bryancarter/
 ```
+
+```
+mv IMAGES images
+```
 using the singularity container from the HPC
 
 ```
