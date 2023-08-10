@@ -1,0 +1,3 @@
+[submodule "batch_processing"]
+	path = batch_processing
+	url = git@github.com:DevinBayly/batch_photogrammetry_processing.git
