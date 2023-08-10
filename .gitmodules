@@ -1,3 +1,6 @@
 [submodule "batch_processing"]
 	path = batch_processing
 	url = git@github.com:DevinBayly/batch_photogrammetry_processing.git
+[submodule "qgis_scripts"]
+	path = qgis_scripts
+	url = https://github.com/DevinBayly/qgis_scripts
